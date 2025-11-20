@@ -1,4 +1,4 @@
-import { defineConfig  } from 'astro/config';
+import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import icon from 'astro-icon';
 
@@ -8,7 +8,7 @@ import react from '@astrojs/react';
 
 export default defineConfig({
   // update me!
-  site: 'https://imassage-therapeutic-clinique.netlify.app/',
+  site: 'https://jocular-buttercream-32c5fb.netlify.app/',
 
   integrations: [
     icon(),
